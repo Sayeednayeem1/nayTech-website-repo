@@ -4,3 +4,7 @@
 .img-css-custom{
     filter: brightness(60%);
 }
+.bg-css-custom{
+    background-color: #FFFAFA;
+    border-radius: 10px;
+}
